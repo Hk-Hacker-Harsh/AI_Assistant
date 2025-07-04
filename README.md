@@ -47,7 +47,7 @@ The program uses following Libraries:
     - subprocess : For some background functions.
 
 ## Images:
-!["Front View"](/Images/1.png)
+!["Front View"](/Images/Front.png)
 
 ## How to Use :
 1. Install All the Required Libraries and Start the Program.
@@ -68,6 +68,8 @@ The program uses following Libraries:
 
 
 ### Demo Video (Download): [Demo Video Download](/Demo/Demo.mp4)
+### Demo Video Youtube Link : [Demo Video Youtube Link](https://youtu.be/P9T-emqfSCI)
+### Exe File : [Exe File](/Demo/Gui_Ai_Assistant.exe)
 
 ## 🤝 Contributing
 
